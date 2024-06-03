@@ -1,6 +1,6 @@
 # ✨ ImageGenie 🧞 ✨
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://imagegenie.streamlit.app/)
 
 Banish image upload woes with a single wish! ImageGenie magically transforms your images to fit those pesky website requirements. 🪄
 
