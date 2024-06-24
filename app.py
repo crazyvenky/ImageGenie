@@ -3,6 +3,7 @@ from PIL import Image
 import google.generativeai as genai
 import re
 
+API_KEY = 'AIzaSyDZX1YJjjTIomxfOmkAyzXXnuiKe5tuitk'
 genai.configure(api_key=API_KEY)
 model = genai.GenerativeModel('gemini-1.5-flash')
 
